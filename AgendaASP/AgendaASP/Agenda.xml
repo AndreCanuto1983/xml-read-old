@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<agenda>
+  <titulo>Agenda Organizacional</titulo>
+  <clientes>
+    <cliente id="1" nome="André Canuto" idade="37" />
+    <cliente id="2" nome="Edna Rios" idade="32" />
+    <cliente id="3" nome="Miguel Canuto" idade="3" />
+    <cliente id="4" nome="Arthur Santana" idade="13" />    
+  </clientes>
+</agenda>
